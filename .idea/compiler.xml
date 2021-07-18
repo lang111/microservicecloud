@@ -6,17 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="microservicecloudproviderdept8002" />
-        <module name="microservicecloudproviderdept8001" />
-        <module name="microservicecloudproviderdepthystrix8001" />
-        <module name="microservicecloudconsumerhystrixdashboard" />
+        <module name="microservicecloud-provider-dept-8003" />
+        <module name="microservicecloudconsumerdeptfeign" />
         <module name="microservicecloudeureka7003" />
         <module name="microservicecloudeureka7002" />
         <module name="microservicecloudeureka7001" />
+        <module name="microservicecloudconfigdeptclient8001" />
+        <module name="microservicecloudproviderdept8002" />
+        <module name="microservicecloudproviderdept8001" />
         <module name="microservicecloudzuulgateway9527" />
-        <module name="microservicecloud-provider-dept-8003" />
+        <module name="microservicecloudconfigclient3355" />
+        <module name="microservicecloudproviderdepthystrix8001" />
+        <module name="microservicecloudconsumerhystrixdashboard" />
         <module name="microservicecloudapi" />
-        <module name="microservicecloudconsumerdeptfeign" />
+        <module name="microservicecloudconfigeurekaclient7001" />
+        <module name="microservicecloudconfig3344" />
         <module name="microservicecloudconsumerdept80" />
       </profile>
     </annotationProcessing>
